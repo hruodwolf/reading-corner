@@ -1,0 +1,6 @@
+1.
+ich möchte eine react-app bauen, mit zwei seiten bzw. dialogen. Erster dialog heißt "List", der zweite "Reminder". 
+Wie kann ich eine sinnvolle Struktur auf  Dateiebenen bzw. Komponentenebene aufbauen?
+
+2.
+in den ordner "pages" kommen nur Pages oder auch dazugehörigen Komponenten falls ich viele habe?

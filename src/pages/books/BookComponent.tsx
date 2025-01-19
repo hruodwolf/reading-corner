@@ -1,5 +1,5 @@
 import React from "react";
-import Book from "./Book";
+import Book from "../../models/Book";
 
 const BookComponent: React.FC<Book> = ({ title, author }) => {
 
